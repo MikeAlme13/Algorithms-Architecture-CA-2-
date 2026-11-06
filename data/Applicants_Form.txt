@@ -1,0 +1,48 @@
+First name,Last name,Gender,Email,Salary,Department,Position,Manager type,Company
+Kate,Summer,Female,ksummer@graftonhughes.ie,62000.00,Electronics,senior,Department Manager,Grafton & Hughes
+Ken,Winter,Male,kwinter@graftonhughes.ie,38000.00,Electronics,middle,Team Lead,Grafton & Hughes
+James,Anderson,Male,janderson@graftonhughes.ie,80000.00,Menswear,senior,Senior Manager,Grafton & Hughes
+Sarah,Johnson,Female,sjohnson@graftonhughes.ie,35500.50,Human Resources,middle,Assistant Manager,Grafton & Hughes
+John,Smith,Male,jsmith@graftonhughes.ie,48000.00,Finance,senior,Senior Manager,Grafton & Hughes
+Emily,Brown,Female,ebrown@graftonhughes.ie,27700.75,Marketing,middle,Team Lead,Grafton & Hughes
+Michael,Williams,Male,mwilliams@graftonhughes.ie,25500.30,Warehouse,intern,Sales Assistant,Grafton & Hughes
+Sophia,Taylor,Female,staylor@graftonhughes.ie,24400.20,Customer Service,junior,Sales Assistant,Grafton & Hughes
+David,Wilson,Male,dwilson@graftonhughes.ie,51000.00,Home & Furniture,senior,Department Manager,Grafton & Hughes
+Olivia,Martinez,Female,omartinez@graftonhughes.ie,32200.45,Finance,contract,Supervisor,Grafton & Hughes
+Ethan,Anderson,Male,eanderson@graftonhughes.ie,46200.00,Finance,senior,Assistant Manager,Grafton & Hughes
+Mia,Clark,Female,mclark@graftonhughes.ie,34800.35,Groceries,middle,Supervisor,Grafton & Hughes
+John,Anderson,Male,janderson.sales@graftonhughes.ie,60000.00,Womenswear,senior,Department Manager,Grafton & Hughes
+Sam,Johnson,Female,sjohnson.hr@graftonhughes.ie,35500.50,Human Resources,senior,Department Manager,Grafton & Hughes
+John,Brown,Male,jbrown@graftonhughes.ie,39000.00,Finance,middle,Team Lead,Grafton & Hughes
+Emma,Brown,Female,ebrown.mkt@graftonhughes.ie,22200.75,Marketing,junior,Sales Assistant,Grafton & Hughes
+Max,Williams,Male,mwilliams.sec@graftonhughes.ie,25200.30,Security,intern,Sales Assistant,Grafton & Hughes
+Sonya,Taylor,Female,staylor.cs@graftonhughes.ie,24200.20,Customer Service,junior,Sales Assistant,Grafton & Hughes
+Denis,Wilson,Male,dwilson.toys@graftonhughes.ie,61000.00,Toys,senior,Department Manager,Grafton & Hughes
+Olga,Martinez,Female,omartinez.acc@graftonhughes.ie,33300.45,Finance,contract,Supervisor,Grafton & Hughes
+Ed,Anderson,Male,eanderson.bty@graftonhughes.ie,46200.00,Beauty,senior,Assistant Manager,Grafton & Hughes
+Milla,Clark,Female,mclark.ops@graftonhughes.ie,34900.35,Groceries,middle,Supervisor,Grafton & Hughes
+Sophia,Lopez,Female,slopez@graftonhughes.ie,22200.00,Womenswear,junior,Sales Assistant,Grafton & Hughes
+Benjamin,Hill,Male,bhill@graftonhughes.ie,97000.00,Customer Service,senior,Store Manager,Grafton & Hughes
+Jessica,Lee,Female,jlee@graftonhughes.ie,70000.00,Electronics,senior,Senior Manager,Grafton & Hughes
+Daniel,Walker,Male,dwalker@graftonhughes.ie,25300.20,Warehouse,intern,Sales Assistant,Grafton & Hughes
+Eleanor,Harris,Female,eharris@graftonhughes.ie,31100.75,Marketing,contract,Supervisor,Grafton & Hughes
+Chris,Evans,Male,cevans@graftonhughes.ie,22200.50,Customer Service,intern,Sales Assistant,Grafton & Hughes
+Alex,Turner,Male,aturner@graftonhughes.ie,34800.40,Electronics,middle,Team Lead,Grafton & Hughes
+Nina,Holmes,Female,nholmes@graftonhughes.ie,33300.65,Finance,contract,Supervisor,Grafton & Hughes
+Victor,Stewart,Male,vstewart@graftonhughes.ie,45500.80,Home & Furniture,senior,Assistant Manager,Grafton & Hughes
+Lucy,Bennett,Female,lbennett@graftonhughes.ie,27700.45,Human Resources,junior,Sales Assistant,Grafton & Hughes
+Oscar,Reed,Male,oreed@graftonhughes.ie,34400.35,Finance,contract,Supervisor,Grafton & Hughes
+Lana,Parker,Female,lparker@graftonhughes.ie,46200.00,Marketing,senior,Department Manager,Grafton & Hughes
+Harry,Cooper,Male,hcooper@graftonhughes.ie,25100.90,Menswear,junior,Sales Assistant,Grafton & Hughes
+Isla,Fisher,Female,ifisher@graftonhughes.ie,34100.60,Groceries,middle,Supervisor,Grafton & Hughes
+Leo,Wright,Male,lwright@graftonhughes.ie,48000.25,Warehouse,senior,Department Manager,Grafton & Hughes
+Eva,Mitchell,Female,emitchell@graftonhughes.ie,22500.45,Customer Service,junior,Sales Assistant,Grafton & Hughes
+Ryan,Carter,Male,rcarter@graftonhughes.ie,35200.80,Security,middle,Team Lead,Grafton & Hughes
+Holly,Brooks,Female,hbrooks@graftonhughes.ie,28800.35,Toys,junior,Sales Assistant,Grafton & Hughes
+Daniel,Gray,Male,dgray@graftonhughes.ie,35500.60,Menswear,middle,Team Lead,Grafton & Hughes
+Layla,Jones,Female,ljones@graftonhughes.ie,21400.50,Finance,junior,Sales Assistant,Grafton & Hughes
+Sebastian,Morgan,Male,smorgan@graftonhughes.ie,29900.40,Human Resources,contract,Supervisor,Grafton & Hughes
+Elena,Scott,Female,escott@graftonhughes.ie,44600.30,Beauty,senior,Assistant Manager,Grafton & Hughes
+Finn,Walker,Male,fwalker@graftonhughes.ie,22200.45,Customer Service,intern,Sales Assistant,Grafton & Hughes
+Amelia,King,Female,aking@graftonhughes.ie,35200.60,Beauty,middle,Team Lead,Grafton & Hughes
+John,Anderson,Male,janderson.toys@graftonhughes.ie,41000.00,Toys,middle,Team Lead,Grafton & Hughes
