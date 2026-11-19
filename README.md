@@ -111,5 +111,5 @@ Replacing the console with a graphical interface would mean rewriting
 
 ## Author
 
-**[YOUR FULL NAME]** — Student number **[YOUR STUDENT NUMBER]**
+Maycon Almeida — Student number 2024354
 Lecturer: Taufique Ahmed — Submission: 29 November 2026
